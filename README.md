@@ -42,7 +42,8 @@ This repository contains a Power BI report to visualize and analyze key Human Re
 * **Drill-Down Capabilities:** Explore data at different levels of granularity (hierarchies) : department-position, date-month-quarter-year.
 
  **How to Use:**
- Follow the demo video to know how to use the report well. 
+ Follow the demo video to know how to use the report well.
+ demo video link : https://www.youtube.com/watch?v=nLNlF7VblaI 
 
 
 **Future Enhancements**
