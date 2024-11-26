@@ -43,8 +43,8 @@ This repository contains a Power BI report to visualize and analyze key Human Re
 
  **How to Use:**
  Follow the demo video to know how to use the report well.
- demo video link : https://www.youtube.com/watch?v=nLNlF7VblaI 
-
+ demo video link : https://www.youtube.com/watch?v=t2JuBpXXwmA
+ 
 
 **Future Enhancements**
 
