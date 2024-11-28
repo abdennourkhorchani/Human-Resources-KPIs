@@ -37,7 +37,7 @@ This repository contains a Power BI report to visualize and analyze key Human Re
 
 * **Data Model:** A Dimension-Only Model is used to organize the data.
 * **DAX Measures:** Several DAX measures are created to calculate key metrics, such as employee turnover rate, talent retention, leaver staff, Last Hired Active Employee, ...
-* **Visualizations:** The dashboard includes various visualizations, including bar charts, line charts, pie charts, card visuals, scatter chart, stacked/clustered column chart, map and area chart.
+* **Visualizations:** The report includes various visualizations, including bar charts, line charts, pie charts, card visuals, scatter chart, stacked/clustered column chart, map and area chart.
 * **Slicers:**  slicers allow users to drill down into specific data segments by date(turnover section), Hiring year and department.
 * **Drill-Down Capabilities:** Explore data at different levels of granularity (hierarchies) : department-position, date-month-quarter-year.
 
