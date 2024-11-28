@@ -50,6 +50,6 @@ This repository contains a Power BI report to visualize and analyze key Human Re
 
 * **Predictive Analytics:** Incorporate predictive modeling to forecast employee attrition and identify potential high-performers.
 * **Advanced Analytics:** Utilize advanced analytics techniques to uncover deeper insights into workforce trends.
-* **Integration with Other Systems:** Integrate the dashboard with other systems, such as payroll and learning management systems.
+* **Integration with Other Systems:** Integrate the dashboard with other systems.
 
 By leveraging the power of Power BI, this dashboard provides a valuable tool for HR professionals to make informed decisions and drive organizational success.
